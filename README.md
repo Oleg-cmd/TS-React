@@ -1,3 +1,8 @@
+# TS-React 🥶
+
+Small aplication-example of ts-react, task manager, hooks etc. 🤖
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
